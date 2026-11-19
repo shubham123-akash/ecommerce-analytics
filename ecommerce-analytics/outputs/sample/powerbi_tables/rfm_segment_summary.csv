@@ -1,0 +1,9 @@
+segment,customers,revenue,avg_recency_days,avg_orders,avg_spend,pct_customers,pct_revenue
+High-Value At Risk,1606,314961.68,345.09,1.0,196.12,21.65,37.82
+Recent High Spenders,1128,226470.12,81.51,1.0,200.77,15.21,27.19
+New Customers,1652,84904.13,81.08,1.0,51.39,22.27,10.19
+Lost,932,49181.26,491.99,1.0,52.77,12.56,5.91
+Hibernating,929,48480.5,330.03,1.0,52.19,12.52,5.82
+Needs Attention,877,45623.1,217.12,1.0,52.02,11.82,5.48
+Champions,187,40038.92,72.06,2.02,214.11,2.52,4.81
+Loyal Repeat Buyers,107,23173.08,277.57,2.02,216.57,1.44,2.78
